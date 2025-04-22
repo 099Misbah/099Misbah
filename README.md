@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://media.tenor.com/Z3LQkU-S5L4AAAAi/teddy-bear.gif" width="160"/>
-</p>
-
-
-
 ### 👋 Hi, I’m Misbahjabin  
 🎯 Aspiring **Data Analyst** | **ML Enthusiast**
 
