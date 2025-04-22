@@ -1,6 +1,11 @@
+<!-- Cute Teddy Waving GIF (top-right corner) -->
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" align="right">
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7609E&center=true&vCenter=true&width=435&lines=Hi+I'm+Misbahjabin!;Data+Analyst+%7C+ML+Enthusiast+%7C+Lifelong+Learner" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7609E&center=true&vCenter=true&width=435&lines=Hi+I'm+Misbahjabin!;Data+Analyst+%7C+ML+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
+
 
 
 ### 👋 Hi, I’m Misbahjabin  
