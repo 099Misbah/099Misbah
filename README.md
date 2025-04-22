@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/uQNMzK3J3zZTy/giphy.gif" width="150px" align="right" />
+
 ### 👋 Hi, I’m Misbahjabin  
 🎯 Aspiring **Data Analyst** | **ML Enthusiast**
 
