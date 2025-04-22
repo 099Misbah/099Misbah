@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNzbmE4YzN0b3FhY3l2aWtvZWlpMGZhcjliNnB4Nmhka2M4Nmw2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vMObF0b3qeZy/giphy.gif" width="150" align="right">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7609E&center=true&vCenter=true&width=435&lines=Hi+I'm+Misbahjabin!;Data+Analyst+%7C+ML+Enthusiast+%7C+Lifelong+Learner" />
+</p>
+
 
 ### 👋 Hi, I’m Misbahjabin  
 🎯 Aspiring **Data Analyst** | **ML Enthusiast**
