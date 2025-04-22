@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/uQNMzK3J3zZTy/giphy.gif" width="150px" align="right" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNzbmE4YzN0b3FhY3l2aWtvZWlpMGZhcjliNnB4Nmhka2M4Nmw2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vMObF0b3qeZy/giphy.gif" width="150" align="right">
 
 ### 👋 Hi, I’m Misbahjabin  
 🎯 Aspiring **Data Analyst** | **ML Enthusiast**
