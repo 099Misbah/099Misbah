@@ -23,6 +23,9 @@ Passionate about turning data into insights and building smart solutions using s
 ---
 
 📌 **Pinned Projects**  
+
+🔹[Global Startup Ecosystem Analysis](https://github.com/099Misbah/-Global-Startup-Ecosystem )  
+
 🔹 [Tesla Stock Price Analysis](https://github.com/your-repo-link](https://github.com/099Misbah/EV-Charging-Station )  
 
 🔹 [Netflix Recommendation Dashboard](https://github.com/your-repo-link](https://public.tableau.com/views/NetflixDashboard_17447505601580/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )  
@@ -32,8 +35,6 @@ Passionate about turning data into insights and building smart solutions using s
 🔹 [EV Charging Station Optimization with Linear Programming](https://github.com/099Misbah/EV-Charging-Station )
 
 🔹 [The Stack Overflow Developer Survey Results (2019)](https://github.com/099Misbah/The-2019-Stack-Overflow-Developer-Survey-Results )
-
-🔹 [A Predictive Model Based on Real Estate Transactions](https://github.com/099Misbah/-A-Predictive-Model-Based-on-Real-Estate-Transactions )
 
 🔹 [A Predictive Model Based on Real Estate Transactions](https://github.com/099Misbah/-A-Predictive-Model-Based-on-Real-Estate-Transactions )
 
