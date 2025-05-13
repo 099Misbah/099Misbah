@@ -28,7 +28,7 @@ Passionate about turning data into insights and building smart solutions using s
 
 🔹 [Tesla Stock Price Analysis](https://github.com/your-repo-link](https://github.com/099Misbah/EV-Charging-Station )  
 
-🔹 [Netflix Recommendation Dashboard](https://app.powerbi.com/links/SDCMURWbBs?ctid=5cdc5b43-d7be-4caa-8173-729e3b0a62d9&pbi_source=linkShare )  
+🔹 [Netflix Recommendation Dashboard](https://github.com/099Misbah/Netflix-Analysis )  
 
 🔹 [Automatic Number Plate Recognition of Cars - Deep Learning Project](https://github.com/your-repo-link](https://github.com/099Misbah/Automatic-Number-Plate-Recognition-of-Cars )
 
