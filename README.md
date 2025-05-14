@@ -30,17 +30,17 @@ Passionate about turning data into insights and building smart solutions using s
 
 🔹[Netflix Recommendation Dashboard](https://github.com/099Misbah/Netflix-Analysis )  
 
-🔹[Automatic Number Plate Recognition of Cars - Deep Learning Project](https://github.com/your-repo-link](https://github.com/099Misbah/Automatic-Number-Plate-Recognition-of-Cars )
+🔹[Automatic Number Plate Recognition of Cars - Deep Learning Project](https://github.com/099Misbah/Automatic-Number-Plate-Recognition-of-Cars )
 
-🔹 [EV Charging Station Optimization with Linear Programming](https://github.com/099Misbah/EV-Charging-Station )
+🔹[EV Charging Station Optimization with Linear Programming](https://github.com/099Misbah/EV-Charging-Station )
 
-🔹 [The Stack Overflow Developer Survey Results (2019)](https://github.com/099Misbah/The-2019-Stack-Overflow-Developer-Survey-Results )
+🔹[The Stack Overflow Developer Survey Results (2019)](https://github.com/099Misbah/The-2019-Stack-Overflow-Developer-Survey-Results )
 
-🔹 [A Predictive Model Based on Real Estate Transactions](https://github.com/099Misbah/-A-Predictive-Model-Based-on-Real-Estate-Transactions )
+🔹[A Predictive Model Based on Real Estate Transactions](https://github.com/099Misbah/-A-Predictive-Model-Based-on-Real-Estate-Transactions )
 
-🔹 [Annual Income Predicton](https://github.com/099Misbah/Annual-Income-Prediction )
+🔹[Annual Income Predicton](https://github.com/099Misbah/Annual-Income-Prediction )
 
-🔹 [German Credit Risk Analysis](https://github.com/099Misbah/Annual-Income-Prediction](https://github.com/099Misbah/German-Credit-Risk-Analysis )
+🔹[German Credit Risk Analysis](https://github.com/099Misbah/German-Credit-Risk-Analysis )
 
 ---
 
