@@ -26,7 +26,7 @@ Passionate about turning data into insights and building smart solutions using s
 
 🔹[Global Startup Ecosystem Analysis](https://github.com/099Misbah/-Global-Startup-Ecosystem )  
 
-🔹 [Tesla Stock Price Analysis](https://github.com/your-repo-link](https://github.com/099Misbah/EV-Charging-Station )  
+🔹 [Tesla Stock Price Analysis](https://github.com/099Misbah/Tesla-Stock-Price-Analysis )  
 
 🔹 [Netflix Recommendation Dashboard](https://github.com/099Misbah/Netflix-Analysis )  
 
