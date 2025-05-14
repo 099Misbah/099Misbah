@@ -30,7 +30,7 @@ Passionate about turning data into insights and building smart solutions using s
 
 🔹[Netflix Recommendation Dashboard](https://github.com/099Misbah/Netflix-Analysis )  
 
-🔹 [Automatic Number Plate Recognition of Cars - Deep Learning Project](https://github.com/your-repo-link](https://github.com/099Misbah/Automatic-Number-Plate-Recognition-of-Cars )
+🔹[Automatic Number Plate Recognition of Cars - Deep Learning Project](https://github.com/your-repo-link](https://github.com/099Misbah/Automatic-Number-Plate-Recognition-of-Cars )
 
 🔹 [EV Charging Station Optimization with Linear Programming](https://github.com/099Misbah/EV-Charging-Station )
 
