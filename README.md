@@ -26,9 +26,9 @@ Passionate about turning data into insights and building smart solutions using s
 
 🔹[Global Startup Ecosystem Analysis](https://github.com/099Misbah/-Global-Startup-Ecosystem )  
 
-🔹 [Tesla Stock Price Analysis](https://github.com/099Misbah/Tesla-Stock-Price-Analysis )  
+🔹[Tesla Stock Price Analysis](https://github.com/099Misbah/Tesla-Stock-Price-Analysis )  
 
-🔹 [Netflix Recommendation Dashboard](https://github.com/099Misbah/Netflix-Analysis )  
+🔹[Netflix Recommendation Dashboard](https://github.com/099Misbah/Netflix-Analysis )  
 
 🔹 [Automatic Number Plate Recognition of Cars - Deep Learning Project](https://github.com/your-repo-link](https://github.com/099Misbah/Automatic-Number-Plate-Recognition-of-Cars )
 
