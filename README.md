@@ -24,6 +24,8 @@ Passionate about turning data into insights and building smart solutions using s
 
 📌 **Pinned Projects**  
 
+🔹[E-Commerce Sales Analysis](https://github.com/099Misbah/E-Commerce-Sales-Analytics )  
+
 🔹[Global Startup Ecosystem Analysis](https://github.com/099Misbah/-Global-Startup-Ecosystem )  
 
 🔹[Tesla Stock Price Analysis](https://github.com/099Misbah/Tesla-Stock-Price-Analysis )  
