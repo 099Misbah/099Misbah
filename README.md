@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Misbahjabin  
-🎯 Aspiring **Data Analyst** | **ML Enthusiast**
+🎯 Aspiring **Data Scientist** | **ML Enthusiast** | **Data Analyst**
 
 Passionate about turning data into insights and building smart solutions using statistics, machine learning, and data visualization. Currently growing my skills through hands-on projects and Coursera’s Data Science & AI certification.
 
@@ -43,6 +43,15 @@ Passionate about turning data into insights and building smart solutions using s
 🔹[Annual Income Predicton](https://github.com/099Misbah/Annual-Income-Prediction )
 
 🔹[German Credit Risk Analysis](https://github.com/099Misbah/German-Credit-Risk-Analysis )
+
+---
+
+🏆**Certification**  
+
+🪪[IBM - Data Science Professional Certification](https://lnkd.in/gguAxByZ)
+🪪[IBM - Data Analyst Capstone Project Certification]([https://lnkd.in/gguAxByZ](https://coursera.org/share/952e20369b31e88f86b3021df8af1f52))
+🪪[IBM - Generative AI: Introduction & Application]([[https://lnkd.in/gguAxByZ](https://coursera.org/share/952e20369b31e88f86b3021df8af1f52)](https://coursera.org/share/4d00fe8edb6f8759a160922f1ea6bfbe))
+
 
 ---
 
