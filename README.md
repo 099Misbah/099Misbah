@@ -48,11 +48,11 @@ Passionate about turning data into insights and building smart solutions using s
 
 🏆**Certification**  
 
-🪪[IBM - Data Science Professional Certification](https://lnkd.in/gguAxByZ)
+🪪 [IBM - Data Science Professional Certification](https://coursera.org/share/7ec47a70a585ce147c2f2187d731e2bf)
 
-🪪[IBM - Data Analyst Capstone Project Certification](https://coursera.org/share/952e20369b31e88f86b3021df8af1f52)
+🪪 [IBM - Data Analyst Capstone Project Certification](https://coursera.org/share/952e20369b31e88f86b3021df8af1f52)
 
-🪪[IBM - Generative AI: Introduction & Application](https://coursera.org/share/952e20369b31e88f86b3021df8af1f52)
+🪪 [IBM - Generative AI: Introduction & Application](https://coursera.org/share/952e20369b31e88f86b3021df8af1f52)
 
 
 ---
