@@ -24,6 +24,8 @@ Passionate about turning data into insights and building smart solutions using s
 
 📌 **Pinned Projects**  
 
+🔹[SpaceX Falcon 9 Landing Prediction](https://github.com/099Misbah/SpaceX-Launch-Record)  
+
 🔹[E-Commerce Sales Analysis](https://github.com/099Misbah/E-Commerce-Sales-Analytics )  
 
 🔹[Global Startup Ecosystem Analysis](https://github.com/099Misbah/-Global-Startup-Ecosystem )  
@@ -53,7 +55,6 @@ Passionate about turning data into insights and building smart solutions using s
 🪪 [IBM - Data Analyst Capstone Project Certification](https://coursera.org/share/952e20369b31e88f86b3021df8af1f52)
 
 🪪 [IBM - Generative AI: Introduction & Application](https://coursera.org/share/952e20369b31e88f86b3021df8af1f52)
-
 
 ---
 
