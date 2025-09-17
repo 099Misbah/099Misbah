@@ -57,6 +57,7 @@ Passionate about turning data into insights and building smart solutions using s
 🪪 [IBM - Generative AI: Introduction & Application](https://coursera.org/share/952e20369b31e88f86b3021df8af1f52)
 
 ---
+
 📫 **Let’s Connect**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misbah-s-3a703b216)  
