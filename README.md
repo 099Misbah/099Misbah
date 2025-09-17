@@ -57,6 +57,13 @@ Passionate about turning data into insights and building smart solutions using s
 🪪 [IBM - Generative AI: Introduction & Application](https://coursera.org/share/952e20369b31e88f86b3021df8af1f52)
 
 ---
+📫 **Let’s Connect**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misbah-s-3a703b216)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhamisbah099@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://099misbah.github.io/)  
+
+---
 
 📫 **Let’s Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/misbah-s-3a703b216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQtpB%2BC8pTkignOVYMktsyA%3D%3D )
