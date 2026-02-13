@@ -1,9 +1,15 @@
-### 👋 Hi, I’m Misbahjabin  
-🎯 Aspiring **Data Scientist** | **ML Enthusiast** | **Data Analyst**
+### 👋 Hi, I’m Misbah Shaikh
+🚀 Data Scientist & ML Engineer | Building Intelligent, Automated Analytics & AI Solutions
 
-Passionate about turning data into insights and building smart solutions using statistics, machine learning, and data visualization. Currently growing my skills through hands-on projects and Coursera’s Data Science & AI certification.
+I specialize in designing end-to-end data and machine learning solutions that transform complex business problems into scalable, data-driven systems. With a Master’s in Applied Statistics & Data Science and hands-on industry experience, I build predictive models, automated ETL pipelines, and executive-ready analytics dashboards that drive real business impact.
 
----
+🔹 Data Science & ML: Predictive Modeling, Classification, Regression, Time Series Forecasting, Feature Engineering  
+🔹 Analytics & BI: SQL, Excel, Power BI, Tableau, KPI Design, Stakeholder Reporting  
+🔹 Data Engineering & Cloud: ETL/ELT Pipelines, AWS, Databricks, PySpark, APIs, FastAPI, Docker  
+🔹 Focus Areas: Applied AI, Automation, Forecasting, Risk Analytics, and Scalable Data Workflows  
+
+💼 Currently working on real-world analytics & ML solutions, combining statistics, engineering, and business thinking to build intelligent systems.
+
 
 🛠️ **Tools & Technologies**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
